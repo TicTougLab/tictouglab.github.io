@@ -3,7 +3,7 @@
 Bienvenue chez **Tic Toug Lab** | Welcome at **Tic Toug Lab**
 
 ## Nous contacter / Contact us
-- Site / Website : [ici/here](https://tictouglab.github.com)
+- Site / Website : [ici/here](https://tictouglab.github.io)
 - GitHub : [ici/here](https://github.com/tictouglab)
 - Courriel / Email : [tictouglab@gmail.com](mailto:tictouglab@gmail.com)
 
